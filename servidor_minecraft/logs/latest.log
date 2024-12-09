@@ -48,3 +48,8 @@
 [23:24:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=56, z=-975} class_2338{x=476, y=57, z=-975}
 [23:24:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=56, z=-975} class_2338{x=476, y=57, z=-975}
 [23:24:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=477, y=56, z=-976} class_2338{x=476, y=57, z=-975}
+[23:33:32] [Server thread/INFO]: samir50594023 lost connection: Timed out
+[23:33:32] [Server thread/INFO]: samir50594023 left the game
+[23:33:32] [Server thread/WARN]: handleDisconnection() called twice
+[23:33:54] [Server thread/INFO]: samir50594023[/127.9.45.150:39659] logged in with entity id 9794 at (394.12258392831245, 65.0, -971.0236987160569)
+[23:33:54] [Server thread/INFO]: samir50594023 joined the game

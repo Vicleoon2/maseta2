@@ -2036,5 +2036,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-09 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-09 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2024-12-09 23:42:48 +0000",
+      "minecraft:black": "2024-12-09 23:25:43 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3700
 }
