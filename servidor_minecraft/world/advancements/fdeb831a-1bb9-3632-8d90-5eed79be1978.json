@@ -779,7 +779,8 @@
       "cooked_beef": "2024-12-09 19:50:24 +0000",
       "cod": "2024-12-09 02:02:18 +0000",
       "porkchop": "2024-12-08 23:57:31 +0000",
-      "cooked_salmon": "2024-12-09 01:32:45 +0000"
+      "cooked_salmon": "2024-12-09 01:32:45 +0000",
+      "carrot": "2024-12-10 01:14:44 +0000"
     },
     "done": false
   },
@@ -2392,6 +2393,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-10 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-10 01:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-12-10 01:11:36 +0000"
@@ -2405,6 +2418,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-10 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-10 01:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2024-12-10 01:11:36 +0000"
@@ -2414,6 +2439,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-10 01:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-10 01:15:13 +0000"
     },
     "done": true
   },
