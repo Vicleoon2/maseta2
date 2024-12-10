@@ -68,3 +68,9 @@
 [03:30:12] [Server thread/INFO]: The difficulty has been set to Peaceful
 [03:33:37] [Server thread/INFO]: The difficulty has been set to Normal
 [03:34:17] [Server thread/INFO]: The difficulty has been set to Hard
+[03:58:52] [Server thread/INFO]: Villager class_1646['Mason'/5762, l='ServerLevel[world]', x=422.51, y=59.00, z=-982.30] died, message: 'Mason was slain by Zombie'
+[04:08:36] [Server thread/INFO]: samir50594023 lost connection: Timed out
+[04:08:36] [Server thread/INFO]: samir50594023 left the game
+[04:08:36] [Server thread/WARN]: handleDisconnection() called twice
+[04:09:28] [Server thread/INFO]: samir50594023[/127.9.45.150:45563] logged in with entity id 15321 at (433.1853232222308, 59.0, -978.8320028131129)
+[04:09:28] [Server thread/INFO]: samir50594023 joined the game
