@@ -1,66 +1,64 @@
-[01:06:00] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[01:06:01] [main/INFO]: Loading 4 mods:
+[03:14:14] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[03:14:15] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.20.4
-[01:06:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:06:15] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:06:21] [main/INFO]: Loaded 7 recipes
-[01:06:22] [main/INFO]: Loaded 1271 advancements
-[01:06:23] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[01:06:23] [Server thread/INFO]: Loading properties
-[01:06:23] [Server thread/INFO]: Default game type: SURVIVAL
-[01:06:23] [Server thread/INFO]: Generating keypair
-[01:06:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:06:23] [Server thread/INFO]: Using epoll channel type
-[01:06:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:06:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:06:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:06:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:06:24] [Server thread/INFO]: Preparing level "world"
-[01:06:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:06:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:06:44] [Server thread/INFO]: Time elapsed: 12423 ms
-[01:06:44] [Server thread/INFO]: Done (20.502s)! For help, type "help"
-[01:08:54] [Server thread/INFO]: Vicleoon[/127.39.109.39:53627] logged in with entity id 82 at (384.01254164784285, 64.0, -978.304002903544)
-[01:08:54] [Server thread/INFO]: Vicleoon joined the game
-[01:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
-[01:11:20] [Server thread/INFO]: Vicleoon has made the advancement [The Parrots and the Bats]
-[01:17:52] [Server thread/INFO]: [Not Secure] <Vicleoon> xxxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzzzzz
-[01:23:56] [Server thread/INFO]: samir50594023[/127.9.45.150:50525] logged in with entity id 3877 at (409.58039586428816, 69.0, -966.1540251831314)
-[01:23:56] [Server thread/INFO]: samir50594023 joined the game
-[01:24:28] [Server thread/INFO]: [Not Secure] <Vicleoon> sisi
-[01:24:30] [Server thread/INFO]: [Not Secure] <Vicleoon> para
-[01:29:04] [Server thread/INFO]: samir50594023 has made the advancement [The Parrots and the Bats]
-[01:30:30] [Server thread/INFO]: samir50594023 has made the advancement [What a Deal!]
-[01:32:21] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:32:28] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:32:36] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:32:36] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:32:37] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:52:12] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzz
+[03:14:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:14:29] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:14:35] [main/INFO]: Loaded 7 recipes
+[03:14:36] [main/INFO]: Loaded 1271 advancements
+[03:14:37] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:14:37] [Server thread/INFO]: Loading properties
+[03:14:37] [Server thread/INFO]: Default game type: SURVIVAL
+[03:14:37] [Server thread/INFO]: Generating keypair
+[03:14:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:14:37] [Server thread/INFO]: Using epoll channel type
+[03:14:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:14:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:14:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:14:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:14:37] [Server thread/INFO]: Preparing level "world"
+[03:14:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:01] [Server thread/INFO]: Time elapsed: 13596 ms
+[03:15:01] [Server thread/INFO]: Done (24.068s)! For help, type "help"
+[03:15:16] [Server thread/INFO]: samir50594023[/127.9.45.150:56313] logged in with entity id 83 at (83.01608182288712, 48.0, -186.6638550583181)
+[03:15:16] [Server thread/INFO]: samir50594023 joined the game
+[03:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[03:15:26] [Server thread/INFO]: samir50594023 was shot by Piglin
+[03:15:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5485ms or 109 ticks behind
+[03:17:07] [Server thread/INFO]: Vicleoon[/127.39.109.39:44357] logged in with entity id 936 at (-24.438322355976336, 68.02442408821369, -382.41293357795644)
+[03:17:07] [Server thread/INFO]: Vicleoon joined the game
+[03:17:28] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[03:17:28] [Server thread/INFO]: Vicleoon left the game
+[03:17:45] [Server thread/INFO]: samir50594023 was burned to a crisp while fighting Magma Cube
+[03:20:50] [Server thread/INFO]: Vicleoon[/127.39.109.39:47277] logged in with entity id 1842 at (-23.33153343314735, 67.0, -381.3504807171911)
+[03:20:50] [Server thread/INFO]: Vicleoon joined the game
+[03:23:36] [Server thread/INFO]: samir50594023 was slain by Wither Skeleton
