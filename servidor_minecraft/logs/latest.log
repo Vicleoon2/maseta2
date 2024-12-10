@@ -66,3 +66,5 @@
 [20:03:29] [Server thread/WARN]: handleDisconnection() called twice
 [20:04:05] [Server thread/INFO]: samir50594023[/127.9.45.150:33611] logged in with entity id 11932 at (366.9041846486944, 74.0, -989.0366491561988)
 [20:04:05] [Server thread/INFO]: samir50594023 joined the game
+[20:16:31] [Server thread/INFO]: Villager class_1646['Fletcher'/137, l='ServerLevel[world]', x=408.50, y=65.00, z=-968.70] died, message: 'Fletcher went up in flames'
+[20:19:31] [Server thread/INFO]: Villager class_1646['Villager'/205, l='ServerLevel[world]', x=412.50, y=65.00, z=-968.70] died, message: 'Villager went up in flames'
