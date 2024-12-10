@@ -666,7 +666,8 @@
       "bread": "2024-12-09 00:08:24 +0000",
       "sweet_berries": "2024-12-09 18:45:38 +0000",
       "salmon": "2024-12-09 03:42:27 +0000",
-      "cooked_salmon": "2024-12-08 23:45:11 +0000"
+      "cooked_salmon": "2024-12-08 23:45:11 +0000",
+      "carrot": "2024-12-10 01:27:47 +0000"
     },
     "done": false
   },
@@ -2058,6 +2059,31 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-09 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-10 01:29:04 +0000",
+      "minecraft:sheep": "2024-12-10 01:29:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-10 01:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-10 01:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-10 01:29:04 +0000"
     },
     "done": true
   },
