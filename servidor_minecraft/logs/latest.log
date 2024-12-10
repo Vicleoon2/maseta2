@@ -59,3 +59,10 @@
 [19:23:26] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzz
 [19:24:48] [Server thread/INFO]: samir50594023 was slain by Vicleoon
 [19:33:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=371, y=64, z=-1033} class_2338{x=371, y=64, z=-1032}
+[19:43:00] [Server thread/INFO]: The difficulty did not change; it is already set to hard
+[19:48:18] [Server thread/INFO]: Villager class_1646['Villager'/206, l='ServerLevel[world]', x=416.04, y=70.00, z=-947.09] died, message: 'Villager was slain by samir50594023'
+[20:03:29] [Server thread/INFO]: samir50594023 lost connection: Timed out
+[20:03:29] [Server thread/INFO]: samir50594023 left the game
+[20:03:29] [Server thread/WARN]: handleDisconnection() called twice
+[20:04:05] [Server thread/INFO]: samir50594023[/127.9.45.150:33611] logged in with entity id 11932 at (366.9041846486944, 74.0, -989.0366491561988)
+[20:04:05] [Server thread/INFO]: samir50594023 joined the game

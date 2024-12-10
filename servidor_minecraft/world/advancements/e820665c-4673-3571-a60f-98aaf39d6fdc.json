@@ -974,7 +974,8 @@
       "minecraft:phantom": "2024-12-09 18:00:05 +0000",
       "minecraft:spider": "2024-12-09 00:19:38 +0000",
       "minecraft:wither_skeleton": "2024-12-10 02:58:01 +0000",
-      "minecraft:zombie": "2024-12-09 00:20:05 +0000"
+      "minecraft:zombie": "2024-12-09 00:20:05 +0000",
+      "minecraft:drowned": "2024-12-10 19:59:13 +0000"
     },
     "done": false
   },
@@ -2378,6 +2379,18 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-10 19:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 19:54:01 +0000"
     },
     "done": true
   },
