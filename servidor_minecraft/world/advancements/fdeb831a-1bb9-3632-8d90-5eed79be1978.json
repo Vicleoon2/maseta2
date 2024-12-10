@@ -2818,15 +2818,15 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2024-12-10 19:26:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-10 20:13:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2024-12-10 21:01:51 +0000"
     },
     "done": true
   },
@@ -2842,11 +2842,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "minecraft:calico": "2024-12-10 19:26:31 +0000"
+      "potion": "2024-12-10 21:01:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-10 21:11:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3700
 }
