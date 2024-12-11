@@ -980,6 +980,7 @@
       "minecraft:piglin": "2024-12-10 02:31:03 +0000",
       "minecraft:enderman": "2024-12-11 01:33:13 +0000",
       "minecraft:magma_cube": "2024-12-11 02:32:02 +0000",
+      "minecraft:endermite": "2024-12-11 03:15:39 +0000",
       "minecraft:spider": "2024-12-09 00:19:38 +0000",
       "minecraft:zombie": "2024-12-09 00:20:05 +0000",
       "minecraft:creeper": "2024-12-10 20:19:49 +0000",
@@ -2580,6 +2581,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-11 02:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-11 03:19:29 +0000"
     },
     "done": true
   },
