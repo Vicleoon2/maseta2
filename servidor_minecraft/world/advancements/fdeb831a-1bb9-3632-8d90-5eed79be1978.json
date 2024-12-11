@@ -20,6 +20,7 @@
       "minecraft:swamp": "2024-12-10 23:33:16 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 01:21:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-09 18:32:27 +0000",
+      "minecraft:savanna": "2024-12-11 02:51:41 +0000",
       "minecraft:plains": "2024-12-08 23:49:56 +0000"
     },
     "done": false
@@ -2912,6 +2913,18 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-11 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-11 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-11 02:41:49 +0000"
     },
     "done": true
   },
