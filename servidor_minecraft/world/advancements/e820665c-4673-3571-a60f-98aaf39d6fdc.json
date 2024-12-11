@@ -668,6 +668,7 @@
       "bread": "2024-12-09 00:08:24 +0000",
       "sweet_berries": "2024-12-09 18:45:38 +0000",
       "salmon": "2024-12-09 03:42:27 +0000",
+      "chorus_fruit": "2024-12-11 03:13:28 +0000",
       "melon_slice": "2024-12-11 01:31:42 +0000",
       "cooked_salmon": "2024-12-08 23:45:11 +0000",
       "carrot": "2024-12-10 01:27:47 +0000"
@@ -974,6 +975,7 @@
       "minecraft:skeleton": "2024-12-09 00:31:29 +0000",
       "minecraft:phantom": "2024-12-09 18:00:05 +0000",
       "minecraft:wither_skeleton": "2024-12-10 02:58:01 +0000",
+      "minecraft:ender_dragon": "2024-12-11 03:09:12 +0000",
       "minecraft:cave_spider": "2024-12-09 00:52:06 +0000",
       "minecraft:piglin": "2024-12-10 02:31:03 +0000",
       "minecraft:enderman": "2024-12-11 01:33:13 +0000",
@@ -2533,6 +2535,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-11 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-11 03:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-11 02:57:13 +0000"
@@ -2566,6 +2580,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-11 02:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-11 03:11:21 +0000"
     },
     "done": true
   },

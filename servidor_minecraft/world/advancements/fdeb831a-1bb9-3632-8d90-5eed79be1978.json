@@ -774,14 +774,15 @@
     "criteria": {
       "cooked_porkchop": "2024-12-09 01:53:09 +0000",
       "mutton": "2024-12-09 20:30:55 +0000",
-      "spider_eye": "2024-12-09 19:13:56 +0000",
       "bread": "2024-12-09 00:08:30 +0000",
+      "golden_apple": "2024-12-11 03:06:47 +0000",
       "rotten_flesh": "2024-12-09 20:01:32 +0000",
       "glow_berries": "2024-12-09 18:52:29 +0000",
       "sweet_berries": "2024-12-09 22:01:33 +0000",
       "cooked_beef": "2024-12-09 19:50:24 +0000",
-      "cod": "2024-12-09 02:02:18 +0000",
       "porkchop": "2024-12-08 23:57:31 +0000",
+      "spider_eye": "2024-12-09 19:13:56 +0000",
+      "cod": "2024-12-09 02:02:18 +0000",
       "cooked_salmon": "2024-12-09 01:32:45 +0000",
       "carrot": "2024-12-10 01:14:44 +0000"
     },
@@ -2927,6 +2928,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-11 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-11 03:11:11 +0000"
     },
     "done": true
   },
