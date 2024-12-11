@@ -52,3 +52,6 @@
 [18:56:46] [Server thread/INFO]: Vicleoon has reached the goal [Sky's the Limit]
 [18:59:35] [Server thread/INFO]: samir50594023 was shot by Skeleton
 [19:02:31] [Server thread/INFO]: samir50594023 was slain by Enderman
+[19:16:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=800, y=68, z=-677} class_2338{x=799, y=68, z=-679}
+[19:21:39] [Server thread/INFO]: Nothing changed. The player is not an operator
+[19:22:38] [Server thread/INFO]: Seed: [-4397064897645676355]
