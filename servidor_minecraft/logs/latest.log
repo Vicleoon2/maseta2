@@ -1,244 +1,54 @@
-[00:53:06] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[00:53:06] [main/INFO]: Loading 4 mods:
+[18:46:06] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[18:46:06] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.20.4
-[00:53:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:53:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:53:33] [main/INFO]: Loaded 7 recipes
-[00:53:34] [main/INFO]: Loaded 1271 advancements
-[00:53:35] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:53:35] [Server thread/INFO]: Loading properties
-[00:53:35] [Server thread/INFO]: Default game type: SURVIVAL
-[00:53:35] [Server thread/INFO]: Generating keypair
-[00:53:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:53:36] [Server thread/INFO]: Using epoll channel type
-[00:53:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:53:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:53:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:53:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:53:36] [Server thread/INFO]: Preparing level "world"
-[00:53:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:53:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:54:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:54:00] [Server thread/INFO]: Time elapsed: 15119 ms
-[00:54:00] [Server thread/INFO]: Done (23.980s)! For help, type "help"
-[00:54:00] [Server thread/INFO]: Vicleoon (/127.39.109.39:54445) lost connection: Disconnected
-[00:54:01] [Server thread/INFO]: samir50594023[/127.9.45.150:46153] logged in with entity id 81 at (407.5729929916653, 68.2531999805212, -998.0013525456087)
-[00:54:02] [Server thread/INFO]: samir50594023 joined the game
-[00:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
-[00:54:08] [Server thread/INFO]: Vicleoon[/127.39.109.39:33505] logged in with entity id 87 at (400.4320147502624, 63.0, -979.062592817585)
-[00:54:08] [Server thread/INFO]: Vicleoon joined the game
-[00:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10081ms or 201 ticks behind
-[01:15:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=749, y=-10, z=-1449} class_2338{x=753, y=-11, z=-1447}
-[01:15:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=749, y=-10, z=-1449} class_2338{x=753, y=-11, z=-1447}
-[01:15:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=752, y=-12, z=-1449} class_2338{x=751, y=-12, z=-1448}
-[01:15:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=758, y=-10, z=-1441} class_2338{x=757, y=-11, z=-1441}
-[01:16:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=724, y=-11, z=-1402} class_2338{x=723, y=-11, z=-1403}
-[01:16:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=731, y=-10, z=-1397} class_2338{x=732, y=-12, z=-1398}
-[01:17:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=770, y=-10, z=-1445} class_2338{x=769, y=-12, z=-1445}
-[01:17:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-11, z=-1445} class_2338{x=763, y=-12, z=-1445}
-[01:17:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-10, z=-1428} class_2338{x=766, y=-12, z=-1429}
-[01:17:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=771, y=-11, z=-1453} class_2338{x=771, y=-12, z=-1454}
-[01:17:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=771, y=-11, z=-1453} class_2338{x=771, y=-12, z=-1454}
-[01:17:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=773, y=-10, z=-1455} class_2338{x=773, y=-11, z=-1456}
-[01:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=773, y=-11, z=-1451} class_2338{x=774, y=-12, z=-1451}
-[01:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=773, y=-11, z=-1451} class_2338{x=774, y=-12, z=-1451}
-[01:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=772, y=-11, z=-1451} class_2338{x=772, y=-13, z=-1451}
-[01:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=772, y=-11, z=-1451} class_2338{x=772, y=-13, z=-1451}
-[01:17:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=769, y=-9, z=-1457} class_2338{x=771, y=-10, z=-1457}
-[01:17:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=769, y=-9, z=-1457} class_2338{x=771, y=-10, z=-1457}
-[01:18:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=763, y=-11, z=-1446} class_2338{x=765, y=-12, z=-1447}
-[01:18:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=763, y=-11, z=-1443} class_2338{x=763, y=-11, z=-1442}
-[01:19:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-14, z=-1453} class_2338{x=763, y=-17, z=-1452}
-[01:19:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=762, y=-15, z=-1452} class_2338{x=762, y=-15, z=-1451}
-[01:19:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=762, y=-15, z=-1452} class_2338{x=762, y=-15, z=-1451}
-[01:19:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=762, y=-15, z=-1452} class_2338{x=762, y=-15, z=-1451}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-15, z=-1448} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-15, z=-1449} class_2338{x=767, y=-14, z=-1450}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-13, z=-1449} class_2338{x=764, y=-16, z=-1448}
-[01:19:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-14, z=-1448} class_2338{x=767, y=-14, z=-1450}
-[01:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=766, y=-14, z=-1448} class_2338{x=767, y=-14, z=-1450}
-[01:19:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=762, y=-14, z=-1450} class_2338{x=762, y=-15, z=-1448}
-[01:19:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=762, y=-14, z=-1450} class_2338{x=762, y=-15, z=-1448}
-[01:19:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=771, y=-14, z=-1439} class_2338{x=767, y=-14, z=-1438}
-[01:19:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=771, y=-14, z=-1439} class_2338{x=767, y=-14, z=-1438}
-[01:19:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=771, y=-14, z=-1439} class_2338{x=767, y=-14, z=-1438}
-[01:21:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=771, y=-15, z=-1441} class_2338{x=772, y=-15, z=-1439}
-[01:22:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=777, y=-14, z=-1438} class_2338{x=775, y=-15, z=-1439}
-[01:22:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=777, y=-14, z=-1438} class_2338{x=775, y=-15, z=-1439}
-[01:22:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=777, y=-14, z=-1438} class_2338{x=775, y=-15, z=-1439}
-[01:22:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=758, y=-12, z=-1445} class_2338{x=760, y=-13, z=-1447}
-[01:23:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=776, y=-13, z=-1433} class_2338{x=775, y=-13, z=-1433}
-[01:23:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=775, y=-13, z=-1433} class_2338{x=775, y=-13, z=-1434}
-[01:23:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=775, y=-13, z=-1433} class_2338{x=775, y=-13, z=-1434}
-[01:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-12, z=-1426} class_2338{x=765, y=-12, z=-1426}
-[01:27:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-18, z=-1444} class_2338{x=763, y=-19, z=-1445}
-[01:27:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-18, z=-1444} class_2338{x=763, y=-19, z=-1445}
-[01:27:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-18, z=-1444} class_2338{x=763, y=-19, z=-1445}
-[01:27:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-18, z=-1444} class_2338{x=763, y=-19, z=-1445}
-[01:27:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-18, z=-1444} class_2338{x=763, y=-19, z=-1445}
-[01:27:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-18, z=-1444} class_2338{x=763, y=-19, z=-1445}
-[01:27:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=772, y=-19, z=-1449} class_2338{x=771, y=-22, z=-1447}
-[01:27:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=773, y=-19, z=-1449} class_2338{x=771, y=-22, z=-1447}
-[01:27:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=772, y=-19, z=-1448} class_2338{x=774, y=-20, z=-1450}
-[01:27:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=773, y=-19, z=-1448} class_2338{x=774, y=-20, z=-1450}
-[01:27:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=773, y=-22, z=-1448} class_2338{x=774, y=-22, z=-1448}
-[01:28:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-10, z=-1418} class_2338{x=758, y=-11, z=-1419}
-[01:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=764, y=-7, z=-1419} class_2338{x=764, y=-9, z=-1419}
-[01:31:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=787, y=-16, z=-1449} class_2338{x=787, y=-15, z=-1449}
-[01:31:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=787, y=-15, z=-1449} class_2338{x=786, y=-16, z=-1449}
-[01:31:50] [Server thread/INFO]: Vicleoon lost connection: Disconnected
-[01:31:50] [Server thread/INFO]: Vicleoon left the game
-[01:34:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1438} class_2338{x=758, y=-20, z=-1438}
-[01:34:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:34:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=757, y=-19, z=-1437} class_2338{x=756, y=-19, z=-1438}
-[01:35:20] [Server thread/INFO]: Vicleoon[/127.39.109.39:49869] logged in with entity id 13655 at (749.7017036303213, -10.0, -1424.326629785723)
-[01:35:20] [Server thread/INFO]: Vicleoon joined the game
-[01:39:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=798, y=-7, z=-1446} class_2338{x=799, y=-8, z=-1443}
-[01:39:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=809, y=-6, z=-1441} class_2338{x=809, y=-8, z=-1441}
-[01:39:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=810, y=-5, z=-1441} class_2338{x=811, y=-6, z=-1440}
-[01:39:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=812, y=-4, z=-1442} class_2338{x=814, y=-4, z=-1441}
-[01:39:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=812, y=-4, z=-1442} class_2338{x=814, y=-4, z=-1441}
-[01:39:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=811, y=-5, z=-1444} class_2338{x=813, y=-6, z=-1445}
-[01:40:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-5, z=-1439} class_2338{x=808, y=-7, z=-1439}
-[01:40:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-5, z=-1439} class_2338{x=808, y=-7, z=-1439}
-[01:40:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-5, z=-1439} class_2338{x=808, y=-7, z=-1439}
-[01:40:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=799, y=-6, z=-1453} class_2338{x=799, y=-7, z=-1452}
-[01:40:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=813, y=-3, z=-1436} class_2338{x=812, y=-4, z=-1437}
-[01:41:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=814, y=-2, z=-1442} class_2338{x=814, y=-3, z=-1445}
-[01:41:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=814, y=-2, z=-1444} class_2338{x=814, y=-3, z=-1445}
-[01:41:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=810, y=-6, z=-1444} class_2338{x=811, y=-7, z=-1444}
-[01:41:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=810, y=-6, z=-1444} class_2338{x=811, y=-7, z=-1444}
-[01:41:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=809, y=-8, z=-1452} class_2338{x=808, y=-9, z=-1451}
-[01:41:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=805, y=-8, z=-1449} class_2338{x=805, y=-8, z=-1450}
-[01:41:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=804, y=-8, z=-1447} class_2338{x=803, y=-9, z=-1448}
-[01:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-8, z=-1449} class_2338{x=808, y=-9, z=-1451}
-[01:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-8, z=-1449} class_2338{x=808, y=-9, z=-1451}
-[01:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-8, z=-1449} class_2338{x=808, y=-9, z=-1451}
-[01:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=807, y=-8, z=-1449} class_2338{x=808, y=-9, z=-1451}
-[01:41:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=799, y=-6, z=-1456} class_2338{x=799, y=-8, z=-1455}
-[01:41:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-11, z=-1455} class_2338{x=803, y=-11, z=-1454}
-[01:45:28] [Server thread/INFO]: Vicleoon lost connection: Disconnected
-[01:45:28] [Server thread/INFO]: Vicleoon left the game
-[01:45:43] [Server thread/INFO]: Vicleoon[/127.39.109.39:57397] logged in with entity id 16454 at (748.4778200330642, -10.0, -1427.370654585506)
-[01:45:43] [Server thread/INFO]: Vicleoon joined the game
-[01:47:54] [Server thread/INFO]: Vicleoon fell from a high place
-[01:55:56] [Server thread/INFO]: samir50594023 fell from a high place
-[02:01:29] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzz
-[02:01:36] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:38:30] [Server thread/INFO]: Vicleoon has made the advancement [Spooky Scary Skeleton]
-[02:39:28] [Server thread/INFO]: samir50594023 has made the advancement [Spooky Scary Skeleton]
-[02:52:26] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzz
-[02:52:26] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:52:27] [Server thread/INFO]: samir50594023 lost connection: Disconnected
-[02:52:27] [Server thread/INFO]: samir50594023 left the game
-[02:52:34] [Server thread/INFO]: samir50594023[/127.9.45.150:34991] logged in with entity id 39411 at (1572.7495757803224, 99.0, -1004.1344024490425)
-[02:52:34] [Server thread/INFO]: samir50594023 joined the game
-[02:54:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1440, y=106, z=-921} class_2338{x=1439, y=105, z=-919}
-[02:54:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1439, y=106, z=-921} class_2338{x=1439, y=105, z=-919}
-[02:54:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1440, y=106, z=-920} class_2338{x=1439, y=105, z=-919}
-[02:54:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1440, y=106, z=-920} class_2338{x=1439, y=105, z=-919}
-[02:54:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1440, y=106, z=-920} class_2338{x=1439, y=105, z=-919}
-[02:54:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1441, y=109, z=-916} class_2338{x=1443, y=107, z=-915}
-[02:57:12] [Server thread/INFO]: Vicleoon has made the advancement [Eye Spy]
-[02:57:13] [Server thread/INFO]: samir50594023 has made the advancement [Eye Spy]
-[03:00:03] [Server thread/INFO]: samir50594023 has made the advancement [The End?]
-[03:00:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[03:00:05] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[03:00:06] [Server thread/INFO]: Vicleoon has made the advancement [The End?]
-[03:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
-[03:00:07] [Server thread/WARN]: Vicleoon moved too quickly! -1279.8753079252772,55.46415937495544,937.2913899854002
-[03:09:12] [Server thread/INFO]: samir50594023 has made the advancement [Free the End]
-[03:11:11] [Server thread/INFO]: Vicleoon has made the advancement [Remote Getaway]
-[03:11:21] [Server thread/INFO]: samir50594023 has made the advancement [Remote Getaway]
-[03:12:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:12:05] [Server thread/INFO]: 		seed<--[HERE]
-[03:12:08] [Server thread/INFO]: Seed: [-4397064897645676355]
-[03:12:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:12:10] [Server thread/INFO]: }seed<--[HERE]
-[03:12:13] [Server thread/INFO]: Seed: [-4397064897645676355]
-[03:14:07] [Server thread/INFO]: [Not Secure] <Vicleoon> -1600 ~ -240
-[03:19:23] [Server thread/INFO]: Vicleoon has made the advancement [The City at the End of the Game]
-[03:19:29] [Server thread/INFO]: samir50594023 has made the advancement [The City at the End of the Game]
-[03:20:38] [Server thread/INFO]: [Not Secure] <Vicleoon> -2192 ~ 720
-[03:20:45] [Server thread/INFO]: [Not Secure] <Vicleoon> -2192 ~ 720
-[03:31:41] [Server thread/INFO]: [Not Secure] <Vicleoon> -2192 ~ 720
-[03:33:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:33:22] [Server thread/INFO]: sse<--[HERE]
-[03:33:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:33:22] [Server thread/INFO]: <--[HERE]
-[03:33:24] [Server thread/INFO]: Seed: [-4397064897645676355]
-[03:42:53] [Server thread/INFO]: Vicleoon fell from a high place
-[03:44:16] [Server thread/INFO]: An entity is required to run this command here
-[03:44:26] [Server thread/INFO]: Teleported Vicleoon to samir50594023
-[03:45:09] [Server thread/INFO]: [Not Secure] <Vicleoon> murio
-[03:46:03] [Server thread/INFO]: [Not Secure] <Vicleoon> Vicleoon se cayó de un lugar muy alto
-[03:46:28] [Server thread/INFO]: [Not Secure] <Vicleoon> Vicleoon se cayó de un lugar muy alto
-[03:46:29] [Server thread/INFO]: [Not Secure] <Vicleoon> Vicleoon se cayó de un lugar muy alto
-[03:46:30] [Server thread/INFO]: [Not Secure] <Vicleoon> Vicleoon se cayó de un lugar muy alto
-[03:46:31] [Server thread/INFO]: [Not Secure] <Vicleoon> Vicleoon se cayó de un lugar muy alto
-[03:48:52] [Server thread/INFO]: samir50594023 fell out of the world
-[03:49:38] [Server thread/INFO]: Seed: [-4397064897645676355]
-[03:50:56] [Server thread/INFO]: Vicleoon lost connection: Disconnected
-[03:50:56] [Server thread/INFO]: Vicleoon left the game
-[03:51:23] [Server thread/INFO]: samir50594023 fell out of the world
-[03:51:30] [Server thread/WARN]: samir50594023 moved too quickly! -1279.7324769454726,55.39260454995134,938.2455372426093
+[18:46:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:46:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:46:19] [main/INFO]: Loaded 7 recipes
+[18:46:20] [main/INFO]: Loaded 1271 advancements
+[18:46:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:46:20] [Server thread/INFO]: Loading properties
+[18:46:20] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:20] [Server thread/INFO]: Generating keypair
+[18:46:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:21] [Server thread/INFO]: Using epoll channel type
+[18:46:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:46:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:46:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:46:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:46:21] [Server thread/INFO]: Preparing level "world"
+[18:46:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:37] [Server thread/INFO]: Time elapsed: 7899 ms
+[18:46:37] [Server thread/INFO]: Done (16.136s)! For help, type "help"
+[18:46:37] [Server thread/INFO]: An unexpected error occurred trying to execute that command
+[18:46:50] [Server thread/INFO]: Seed: [-4397064897645676355]
+[18:47:50] [Server thread/INFO]: samir50594023[/127.9.45.150:38105] logged in with entity id 81 at (1379.9106504177428, 74.57969854367613, -960.359235683967)
+[18:47:50] [Server thread/INFO]: samir50594023 joined the game
+[18:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[18:48:55] [Server thread/INFO]: Vicleoon[/127.39.109.39:42681] logged in with entity id 479 at (-2803.6262061165603, 62.0, 15.217534832956543)
+[18:48:55] [Server thread/INFO]: Vicleoon joined the game
+[18:49:09] [Server thread/INFO]: [Not Secure] <Vicleoon> -3152 ~ -528
+[18:51:24] [Server thread/INFO]: [Not Secure] <Vicleoon> 363 ~ -1026
+[18:51:48] [Server thread/INFO]: [Not Secure] <samir50594023> t
+[18:51:54] [Server thread/INFO]: samir50594023 was impaled by Drowned
+[18:56:46] [Server thread/INFO]: Vicleoon has reached the goal [Sky's the Limit]
+[18:59:35] [Server thread/INFO]: samir50594023 was shot by Skeleton
+[19:02:31] [Server thread/INFO]: samir50594023 was slain by Enderman
