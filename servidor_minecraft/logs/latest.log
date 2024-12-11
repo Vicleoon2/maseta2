@@ -100,3 +100,36 @@
 [20:02:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=810, y=-10, z=-1449} class_2338{x=810, y=-9, z=-1448}
 [20:02:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=810, y=-10, z=-1449} class_2338{x=809, y=-11, z=-1448}
 [20:03:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=798, y=-8, z=-1448} class_2338{x=798, y=-9, z=-1447}
+[20:08:48] [Server thread/INFO]: Vicleoon[/127.39.109.39:50831] logged in with entity id 36631 at (329.1467935391296, 107.90246255215337, -875.7431390747954)
+[20:08:48] [Server thread/INFO]: Vicleoon joined the game
+[20:09:42] [Server thread/INFO]: [Not Secure] <Vicleoon> A
+[20:12:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=815, y=-5, z=-1488} class_2338{x=816, y=-8, z=-1489}
+[20:12:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=815, y=-5, z=-1488} class_2338{x=816, y=-8, z=-1489}
+[20:15:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-8, z=-1472} class_2338{x=806, y=-10, z=-1473}
+[20:15:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=803, y=-8, z=-1472} class_2338{x=806, y=-10, z=-1473}
+[20:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=801, y=-9, z=-1472} class_2338{x=800, y=-8, z=-1472}
+[20:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=800, y=-9, z=-1474} class_2338{x=801, y=-10, z=-1472}
+[20:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=800, y=-9, z=-1474} class_2338{x=801, y=-10, z=-1472}
+[20:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=801, y=-10, z=-1475} class_2338{x=802, y=-11, z=-1474}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=802, y=-11, z=-1474} class_2338{x=802, y=-11, z=-1473}
+[20:16:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=796, y=-11, z=-1472} class_2338{x=800, y=-11, z=-1471}
+[20:16:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=796, y=-9, z=-1475} class_2338{x=796, y=-10, z=-1476}
+[20:16:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=796, y=-9, z=-1475} class_2338{x=796, y=-10, z=-1476}
+[20:16:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=796, y=-9, z=-1475} class_2338{x=796, y=-10, z=-1476}
+[20:23:08] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[20:23:08] [Server thread/INFO]: Vicleoon left the game
+[20:23:23] [Server thread/INFO]: Vicleoon[/127.39.109.39:33543] logged in with entity id 44943 at (-203.54193294008257, 67.0, -369.4236561810371)
+[20:23:23] [Server thread/INFO]: Vicleoon joined the game
+[20:23:49] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[20:23:49] [Server thread/INFO]: Vicleoon left the game
+[20:23:56] [Server thread/INFO]: Vicleoon[/127.39.109.39:58229] logged in with entity id 45202 at (-158.91153748915744, 67.0, -370.17868357439244)
+[20:23:56] [Server thread/INFO]: Vicleoon joined the game
+[20:24:22] [Server thread/INFO]: Vicleoon has made the advancement [Ol' Betsy]
