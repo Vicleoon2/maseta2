@@ -1,5 +1,5 @@
-[18:31:59] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[18:31:59] [main/INFO]: Loading 42 mods:
+[18:44:41] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[18:44:42] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.97.1+1.20.4
 	   |-- fabric-api-base 0.4.37+78d798af4f
 	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
@@ -55,71 +55,62 @@
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.20.4
-[18:31:59] [main/WARN]: Found 5 non-fabric mods:
-	- servercore-forge-1.5.2+1.20.1.jar
+[18:44:42] [main/WARN]: Found 4 non-fabric mods:
 	- Chunky-1.3.146.jar
 	- AI-Improvements-1.20-0.5.2.jar
 	- ferritecore-6.0.1-forge.jar
 	- modernfix-forge-5.19.6+mc1.20.1.jar
-[18:31:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:31:59] [main/INFO]: Compatibility level set to JAVA_17
-[18:32:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:32:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:32:15] [main/INFO]: Loaded 7 recipes
-[18:32:15] [main/INFO]: Loaded 1271 advancements
-[18:32:16] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.616 ms
-[18:32:16] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:32:16] [Server thread/INFO]: Loading properties
-[18:32:16] [Server thread/INFO]: Default game type: SURVIVAL
-[18:32:16] [Server thread/INFO]: Generating keypair
-[18:32:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:32:16] [Server thread/INFO]: Using epoll channel type
-[18:32:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:32:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:32:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:32:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:32:16] [Server thread/INFO]: Preparing level "world"
-[18:32:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:32:32] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[18:32:32] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[18:32:33] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[18:32:33] [Server thread/INFO]: Time elapsed: 8746 ms
-[18:32:33] [Server thread/INFO]: Done (16.798s)! For help, type "help"
-[18:32:33] [Server thread/INFO]: Vicleoon (/127.39.109.39:56051) lost connection: Disconnected
-[18:33:04] [Server thread/INFO]: Vicleoon[/127.39.109.39:60049] logged in with entity id 76 at (202.6302411001252, 193.38287527663283, -875.9947737428195)
-[18:33:05] [Server thread/INFO]: Vicleoon joined the game
-[18:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
-[18:33:11] [Server thread/INFO]: samir50594023[/127.9.45.150:47299] logged in with entity id 178 at (1427.1676460353237, -1.0, -938.0111626317389)
-[18:33:11] [Server thread/INFO]: samir50594023 joined the game
-[18:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4830ms or 96 ticks behind
-[18:33:29] [Server thread/INFO]: samir50594023 was shot by Skeleton
-[18:34:31] [Server thread/INFO]: samir50594023 drowned
-[18:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[18:34:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-243, y=77, z=25}
-[18:34:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-243, y=77, z=23}
-[18:34:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-243, y=77, z=24}
-[18:34:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-242, y=77, z=24}
-[18:34:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-242, y=76, z=23}
-[18:34:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-242, y=76, z=22}
-[18:34:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-231, y=75, z=33} class_2338{x=-231, y=76, z=32}
-[18:34:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-231, y=75, z=33} class_2338{x=-231, y=76, z=32}
-[18:35:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-231, y=75, z=33} class_2338{x=-231, y=76, z=32}
-[18:35:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-231, y=75, z=33} class_2338{x=-231, y=76, z=32}
-[18:35:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-230, y=77, z=34} class_2338{x=-232, y=77, z=32}
-[18:35:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-230, y=77, z=34} class_2338{x=-231, y=77, z=32}
-[18:36:17] [Server thread/INFO]: Stopping server
+[18:44:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:44:44] [main/INFO]: Compatibility level set to JAVA_17
+[18:44:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:44:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:45:00] [main/INFO]: Loaded 7 recipes
+[18:45:01] [main/INFO]: Loaded 1271 advancements
+[18:45:01] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 3.203 ms
+[18:45:01] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:45:01] [Server thread/INFO]: Loading properties
+[18:45:01] [Server thread/INFO]: Default game type: SURVIVAL
+[18:45:01] [Server thread/INFO]: Generating keypair
+[18:45:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:45:02] [Server thread/INFO]: Using epoll channel type
+[18:45:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:45:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:45:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:45:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:45:02] [Server thread/INFO]: Preparing level "world"
+[18:45:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:45:20] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[18:45:21] [Server thread/INFO]: Time elapsed: 10093 ms
+[18:45:21] [Server thread/INFO]: Done (18.645s)! For help, type "help"
+[18:45:58] [Server thread/INFO]: Vicleoon[/127.39.109.39:38115] logged in with entity id 215 at (-199.47694771964342, 72.0, -7.4561347445116635)
+[18:45:58] [Server thread/INFO]: Vicleoon joined the game
+[18:46:02] [Server thread/INFO]: samir50594023[/127.9.45.150:47633] logged in with entity id 390 at (-198.69999998807907, 67.0, -8.300000011920929)
+[18:46:02] [Server thread/INFO]: samir50594023 joined the game
+[18:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18:47:05] [Server thread/INFO]: Seed: [-4397064897645676355]
+[18:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12032ms or 240 ticks behind
+[18:53:18] [Server thread/INFO]: samir50594023 lost connection: Timed out
+[18:53:18] [Server thread/INFO]: samir50594023 left the game
+[18:53:18] [Server thread/WARN]: handleDisconnection() called twice
+[18:54:12] [Server thread/INFO]: samir50594023[/127.9.45.150:57761] logged in with entity id 5611 at (202.6042873467087, 193.0, -887.0324504416291)
+[18:54:12] [Server thread/INFO]: samir50594023 joined the game
