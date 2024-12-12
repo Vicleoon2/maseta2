@@ -122,3 +122,5 @@
 [19:15:40] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
 [19:17:47] [Server thread/INFO]: Made Vicleoon no longer a server operator
 [19:25:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=382, y=64, z=-979} class_2338{x=383, y=63, z=-979}
+[19:28:30] [Server thread/WARN]: Vicleoon moved wrongly!
+[19:40:43] [Server thread/INFO]: Seed: [-4397064897645676355]
