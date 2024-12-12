@@ -12,14 +12,18 @@
       "minecraft:beach": "2024-12-08 23:36:57 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-09 18:57:48 +0000",
       "minecraft:dark_forest": "2024-12-08 23:36:14 +0000",
+      "minecraft:stony_peaks": "2024-12-12 18:06:51 +0000",
       "minecraft:forest": "2024-12-08 23:50:44 +0000",
       "minecraft:taiga": "2024-12-09 18:29:08 +0000",
+      "minecraft:sparse_jungle": "2024-12-12 18:06:41 +0000",
       "minecraft:deep_ocean": "2024-12-08 23:46:37 +0000",
       "minecraft:river": "2024-12-08 23:43:08 +0000",
       "minecraft:lush_caves": "2024-12-09 18:34:44 +0000",
       "minecraft:deep_cold_ocean": "2024-12-12 02:53:13 +0000",
       "minecraft:ocean": "2024-12-08 23:43:07 +0000",
+      "minecraft:jungle": "2024-12-12 18:06:38 +0000",
       "minecraft:meadow": "2024-12-11 19:11:42 +0000",
+      "minecraft:birch_forest": "2024-12-12 18:06:31 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 01:21:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-09 18:32:28 +0000",
       "minecraft:savanna": "2024-12-11 02:51:49 +0000",
@@ -2990,6 +2994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-12 18:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2024-12-12 17:45:22 +0000"
@@ -3014,6 +3024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-12 18:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2024-12-12 17:46:41 +0000"
@@ -3035,6 +3051,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2024-12-12 17:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-12 18:12:28 +0000"
     },
     "done": true
   },
