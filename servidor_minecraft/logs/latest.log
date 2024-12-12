@@ -120,3 +120,5 @@
 [19:09:30] [Server thread/INFO]: Vicleoon joined the game
 [19:15:18] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
 [19:15:40] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
+[19:17:47] [Server thread/INFO]: Made Vicleoon no longer a server operator
+[19:25:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=382, y=64, z=-979} class_2338{x=383, y=63, z=-979}
