@@ -143,3 +143,30 @@
 [20:46:18] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
 [20:46:19] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
 [20:46:20] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:48:57] [Server thread/INFO]: Vicleoon was shot by samir50594023
+[20:49:02] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[20:49:02] [Server thread/INFO]: Vicleoon left the game
+[20:49:09] [Server thread/INFO]: Kicked samir50594023: Kicked by an operator
+[20:49:09] [Server thread/INFO]: samir50594023 lost connection: Kicked by an operator
+[20:49:09] [Server thread/INFO]: samir50594023 left the game
+[20:49:20] [Server thread/INFO]: Vicleoon[/127.39.109.39:60623] logged in with entity id 48511 at (360.5, 63.0, -1029.5)
+[20:49:20] [Server thread/INFO]: Vicleoon joined the game
+[20:49:32] [Server thread/INFO]: samir50594023[/127.9.45.150:52603] logged in with entity id 49271 at (201.49415377764345, 193.0, -876.0178339573723)
+[20:49:32] [Server thread/INFO]: samir50594023 joined the game
+[20:52:00] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:01] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:02] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:02] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:03] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:03] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:03] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:04] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:52:34] [Server thread/INFO]: [Not Secure] <Vicleoon> 1152 ~ -480
+[20:53:16] [Server thread/INFO]: [Not Secure] <samir50594023> T}
+[20:53:22] [Server thread/INFO]: [Not Secure] <samir50594023> T
+[20:54:51] [Server thread/INFO]: [Not Secure] <Vicleoon> 300 -1100
+[20:56:33] [Server thread/WARN]: samir50594023 moved wrongly!
+[20:56:33] [Server thread/WARN]: samir50594023 moved wrongly!
+[20:56:41] [Server thread/INFO]: Villager class_1646['Armorer'/54321, l='ServerLevel[world]', x=392.59, y=65.00, z=-968.30] died, message: 'Armorer was shot by Pillager'
+[20:56:55] [Server thread/INFO]: Villager class_1646['Armorer'/54322, l='ServerLevel[world]', x=394.55, y=65.00, z=-968.30] died, message: 'Armorer was shot by Pillager'
+[20:57:25] [Server thread/INFO]: Villager class_1646['Toolsmith'/54323, l='ServerLevel[world]', x=396.30, y=65.00, z=-968.30] died, message: 'Toolsmith was shot by Pillager'
