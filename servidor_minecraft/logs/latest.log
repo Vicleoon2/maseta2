@@ -118,3 +118,15 @@
 [19:16:36] [Server thread/INFO]: samir50594023[/127.9.45.150:48525] logged in with entity id 17693 at (-213.34213368136417, 75.0, -391.1846920624596)
 [19:16:36] [Server thread/INFO]: samir50594023 joined the game
 [19:22:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-212, y=125, z=-388} class_2338{x=-212, y=124, z=-388}
+[19:28:00] [Server thread/INFO]: Made Vicleoon a server operator
+[19:28:03] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
+[19:28:25] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
+[19:28:49] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
+[19:29:04] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
+[19:30:41] [Server thread/INFO]: samir50594023 lost connection: Disconnected
+[19:30:41] [Server thread/INFO]: samir50594023 left the game
+[19:33:17] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
+[19:33:37] [Server thread/INFO]: [Vicleoon: Set own game mode to Creative Mode]
+[19:33:49] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
+[19:34:09] [Server thread/INFO]: [Vicleoon: Set own game mode to Creative Mode]
+[19:34:12] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
