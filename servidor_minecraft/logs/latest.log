@@ -105,3 +105,9 @@
 [18:42:01] [Server thread/WARN]: handleDisconnection() called twice
 [18:42:28] [Server thread/INFO]: samir50594023[/127.9.45.150:33415] logged in with entity id 9393 at (-214.81034473064477, 75.0, -386.20504100034464)
 [18:42:28] [Server thread/INFO]: samir50594023 joined the game
+[18:48:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-227, y=71, z=-362} class_2338{x=-227, y=71, z=-361}
+[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-226, y=71, z=-365}
+[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
+[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
+[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
+[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
