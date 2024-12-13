@@ -100,3 +100,8 @@
 [18:16:58] [Server thread/INFO]: samir50594023[/127.9.45.150:35529] logged in with entity id 2036 at (367.1165009584899, 63.0, -1027.9741698102407)
 [18:16:58] [Server thread/INFO]: samir50594023 joined the game
 [18:20:06] [Server thread/INFO]: Seed: [-4397064897645676355]
+[18:42:00] [Server thread/INFO]: samir50594023 lost connection: Timed out
+[18:42:00] [Server thread/INFO]: samir50594023 left the game
+[18:42:01] [Server thread/WARN]: handleDisconnection() called twice
+[18:42:28] [Server thread/INFO]: samir50594023[/127.9.45.150:33415] logged in with entity id 9393 at (-214.81034473064477, 75.0, -386.20504100034464)
+[18:42:28] [Server thread/INFO]: samir50594023 joined the game

@@ -989,6 +989,7 @@
       "minecraft:witch": "2024-12-11 23:28:14 +0000",
       "minecraft:wither_skeleton": "2024-12-10 02:58:01 +0000",
       "minecraft:ravager": "2024-12-11 23:17:14 +0000",
+      "minecraft:ghast": "2024-12-13 18:31:27 +0000",
       "minecraft:ender_dragon": "2024-12-11 03:09:12 +0000",
       "minecraft:shulker": "2024-12-11 03:40:35 +0000",
       "minecraft:cave_spider": "2024-12-09 00:52:06 +0000",
@@ -3260,6 +3261,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-13 03:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-13 18:23:43 +0000"
     },
     "done": true
   },
