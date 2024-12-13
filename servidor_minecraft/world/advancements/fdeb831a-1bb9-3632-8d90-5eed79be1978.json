@@ -8,26 +8,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-12-09 01:13:55 +0000",
-      "minecraft:savanna_plateau": "2024-12-11 02:54:38 +0000",
-      "minecraft:beach": "2024-12-08 23:42:46 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-09 18:57:48 +0000",
-      "minecraft:dark_forest": "2024-12-08 23:36:21 +0000",
       "minecraft:forest": "2024-12-08 23:50:42 +0000",
       "minecraft:taiga": "2024-12-09 17:45:18 +0000",
-      "minecraft:sparse_jungle": "2024-12-12 20:52:51 +0000",
       "minecraft:deep_ocean": "2024-12-08 23:46:37 +0000",
-      "minecraft:river": "2024-12-08 23:43:07 +0000",
-      "minecraft:stony_shore": "2024-12-11 19:25:14 +0000",
       "minecraft:lush_caves": "2024-12-09 18:36:30 +0000",
       "minecraft:deep_cold_ocean": "2024-12-11 19:26:25 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-12 18:47:27 +0000",
+      "minecraft:frozen_ocean": "2024-12-13 19:59:46 +0000",
+      "minecraft:frozen_river": "2024-12-13 19:58:28 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-13 19:59:49 +0000",
       "minecraft:ocean": "2024-12-08 23:43:06 +0000",
       "minecraft:jungle": "2024-12-12 20:55:02 +0000",
+      "minecraft:birch_forest": "2024-12-12 18:47:10 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-09 18:32:27 +0000",
+      "minecraft:savanna_plateau": "2024-12-11 02:54:38 +0000",
+      "minecraft:beach": "2024-12-08 23:42:46 +0000",
+      "minecraft:dark_forest": "2024-12-08 23:36:21 +0000",
+      "minecraft:sparse_jungle": "2024-12-12 20:52:51 +0000",
+      "minecraft:river": "2024-12-08 23:43:07 +0000",
+      "minecraft:stony_shore": "2024-12-11 19:25:14 +0000",
+      "minecraft:snowy_plains": "2024-12-13 19:58:22 +0000",
+      "minecraft:snowy_taiga": "2024-12-13 19:58:27 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-12 18:47:27 +0000",
       "minecraft:swamp": "2024-12-10 23:33:16 +0000",
       "minecraft:meadow": "2024-12-11 19:12:09 +0000",
-      "minecraft:birch_forest": "2024-12-12 18:47:10 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 01:21:20 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-09 18:32:27 +0000",
       "minecraft:savanna": "2024-12-11 02:51:41 +0000",
       "minecraft:plains": "2024-12-08 23:49:56 +0000"
     },
@@ -2424,6 +2429,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-12-10 01:11:20 +0000",
+      "minecraft:wolf": "2024-12-13 20:47:55 +0000",
       "minecraft:turtle": "2024-12-13 03:00:04 +0000",
       "minecraft:sheep": "2024-12-10 01:11:45 +0000"
     },
@@ -3529,15 +3535,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-13 19:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2024-12-13 19:10:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "minecraft:adventure/sniper_duel": {
     "criteria": {
-      "has_carved_pumpkin": "2024-12-13 19:07:17 +0000"
+      "killed_skeleton": "2024-12-13 20:29:18 +0000"
     },
     "done": true
   },

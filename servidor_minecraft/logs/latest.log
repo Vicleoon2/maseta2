@@ -1,5 +1,5 @@
-[18:13:30] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[18:13:31] [main/INFO]: Loading 47 mods:
+[23:16:04] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[23:16:05] [main/INFO]: Loading 47 mods:
 	- chunkdebug 1.1.0
 	- chunky 1.3.146
 	- chunkyborder 1.1.63
@@ -60,74 +60,38 @@
 	- java 21
 	- minecraft 1.20.4
 	- modernfix 5.17.0+mc1.20.4
-[18:13:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:13:31] [main/INFO]: Compatibility level set to JAVA_17
-[18:13:32] [main/INFO]: Loaded configuration file for ModernFix 5.17.0+mc1.20.4: 54 options available, 0 override(s) found
-[18:13:32] [main/INFO]: Applying Nashorn fix
-[18:13:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:13:40] [main/INFO]: Vanilla bootstrap took 5819 milliseconds
-[18:13:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:13:41] [main/INFO]: Bypassed Mojang DFU
-[18:13:45] [main/INFO]: Loaded 7 recipes
-[18:13:45] [main/INFO]: Loaded 1271 advancements
-[18:13:45] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.756 ms
-[18:13:45] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:13:45] [Server thread/INFO]: Loading properties
-[18:13:45] [Server thread/INFO]: Default game type: SURVIVAL
-[18:13:45] [Server thread/INFO]: Generating keypair
-[18:13:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:13:46] [Server thread/INFO]: Using epoll channel type
-[18:13:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:13:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:13:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:13:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:13:46] [Server thread/INFO]: Preparing level "world"
-[18:13:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:13:50] [Server thread/INFO]: Time elapsed: 3523 ms
-[18:13:50] [Server thread/INFO]: Done (3.968s)! For help, type "help"
-[18:13:50] [Server thread/WARN]: Dedicated server took 21.069 seconds to load
-[18:14:20] [Server thread/INFO]: Vicleoon[/127.39.109.39:45911] logged in with entity id 61 at (362.6650754430114, 63.0, -1028.9709855976787)
-[18:14:21] [Server thread/INFO]: Vicleoon joined the game
-[18:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[18:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5852ms or 117 ticks behind
-[18:16:58] [Server thread/INFO]: samir50594023[/127.9.45.150:35529] logged in with entity id 2036 at (367.1165009584899, 63.0, -1027.9741698102407)
-[18:16:58] [Server thread/INFO]: samir50594023 joined the game
-[18:20:06] [Server thread/INFO]: Seed: [-4397064897645676355]
-[18:42:00] [Server thread/INFO]: samir50594023 lost connection: Timed out
-[18:42:00] [Server thread/INFO]: samir50594023 left the game
-[18:42:01] [Server thread/WARN]: handleDisconnection() called twice
-[18:42:28] [Server thread/INFO]: samir50594023[/127.9.45.150:33415] logged in with entity id 9393 at (-214.81034473064477, 75.0, -386.20504100034464)
-[18:42:28] [Server thread/INFO]: samir50594023 joined the game
-[18:48:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-227, y=71, z=-362} class_2338{x=-227, y=71, z=-361}
-[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-226, y=71, z=-365}
-[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
-[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
-[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
-[18:48:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-225, y=70, z=-367} class_2338{x=-224, y=70, z=-368}
-[19:08:23] [Server thread/WARN]: Vicleoon moved wrongly!
-[19:10:47] [Server thread/INFO]: Vicleoon has reached the goal [Hired Help]
-[19:16:01] [Server thread/INFO]: samir50594023 lost connection: Timed out
-[19:16:01] [Server thread/INFO]: samir50594023 left the game
-[19:16:36] [Server thread/INFO]: samir50594023[/127.9.45.150:48525] logged in with entity id 17693 at (-213.34213368136417, 75.0, -391.1846920624596)
-[19:16:36] [Server thread/INFO]: samir50594023 joined the game
-[19:22:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-212, y=125, z=-388} class_2338{x=-212, y=124, z=-388}
-[19:28:00] [Server thread/INFO]: Made Vicleoon a server operator
-[19:28:03] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
-[19:28:25] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
-[19:28:49] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
-[19:29:04] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
-[19:30:41] [Server thread/INFO]: samir50594023 lost connection: Disconnected
-[19:30:41] [Server thread/INFO]: samir50594023 left the game
-[19:33:17] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
-[19:33:37] [Server thread/INFO]: [Vicleoon: Set own game mode to Creative Mode]
-[19:33:49] [Server thread/INFO]: [Vicleoon: Set own game mode to Spectator Mode]
-[19:34:09] [Server thread/INFO]: [Vicleoon: Set own game mode to Creative Mode]
-[19:34:12] [Server thread/INFO]: [Vicleoon: Set own game mode to Survival Mode]
-[19:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5425ms or 108 ticks behind
+[23:16:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maseta2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:16:05] [main/INFO]: Compatibility level set to JAVA_17
+[23:16:06] [main/INFO]: Loaded configuration file for ModernFix 5.17.0+mc1.20.4: 54 options available, 0 override(s) found
+[23:16:06] [main/INFO]: Applying Nashorn fix
+[23:16:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:16:12] [main/INFO]: Vanilla bootstrap took 4868 milliseconds
+[23:16:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:16:13] [main/INFO]: Bypassed Mojang DFU
+[23:16:16] [main/INFO]: Loaded 7 recipes
+[23:16:16] [main/INFO]: Loaded 1271 advancements
+[23:16:16] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.487 ms
+[23:16:16] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:16:16] [Server thread/INFO]: Loading properties
+[23:16:16] [Server thread/INFO]: Default game type: SURVIVAL
+[23:16:16] [Server thread/INFO]: Generating keypair
+[23:16:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:16:17] [Server thread/INFO]: Using epoll channel type
+[23:16:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:16:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:16:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:16:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:16:17] [Server thread/INFO]: Preparing level "world"
+[23:16:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:16:19] [Server thread/INFO]: Preparing spawn area: 0%
+[23:16:19] [Server thread/INFO]: Preparing spawn area: 0%
+[23:16:19] [Server thread/INFO]: Preparing spawn area: 0%
+[23:16:19] [Server thread/INFO]: Preparing spawn area: 0%
+[23:16:19] [Server thread/INFO]: Preparing spawn area: 0%
+[23:16:20] [Server thread/INFO]: Time elapsed: 2377 ms
+[23:16:20] [Server thread/INFO]: Done (2.798s)! For help, type "help"
+[23:16:20] [Server thread/WARN]: Dedicated server took 23.303 seconds to load
+[23:16:36] [Server thread/INFO]: samir50594023[/127.9.45.150:54829] logged in with entity id 60 at (202.62593515049392, 193.0, -880.7177571021554)
+[23:16:36] [Server thread/INFO]: samir50594023 joined the game
+[23:16:53] [Server thread/INFO]: Vicleoon[/127.39.109.39:39281] logged in with entity id 879 at (-223.89246691087183, 202.0, -399.76004286484977)
+[23:16:53] [Server thread/INFO]: Vicleoon joined the game
