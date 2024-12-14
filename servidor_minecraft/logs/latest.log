@@ -12,3 +12,10 @@
 [00:10:57] [Server thread/INFO]: Vicleoon left the game
 [00:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
 [00:16:02] [Server thread/INFO]: samir50594023 has made the advancement [Hidden in the Depths]
+[00:31:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=14, z=-192} class_2338{x=177, y=15, z=-196}
+[00:31:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=14, z=-192} class_2338{x=177, y=14, z=-202}
+[00:31:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=14, z=-192} class_2338{x=177, y=14, z=-202}
+[00:31:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=16, z=-231} class_2338{x=177, y=16, z=-232}
+[00:31:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=16, z=-231} class_2338{x=177, y=16, z=-232}
+[00:31:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=16, z=-231} class_2338{x=177, y=16, z=-232}
+[00:32:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=177, y=16, z=-320} class_2338{x=177, y=16, z=-321}
