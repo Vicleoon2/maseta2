@@ -97,3 +97,38 @@
 [17:48:59] [Server thread/INFO]: samir50594023[/127.175.39.96:52263] logged in with entity id 2467 at (222.69999998807907, 15.0, -174.1309084406808)
 [17:48:59] [Server thread/INFO]: samir50594023 joined the game
 [17:50:02] [Server thread/INFO]: Vicleoon was shot by Piglin
+[17:53:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=15, z=-168} class_2338{x=217, y=15, z=-167}
+[17:53:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=15, z=-168} class_2338{x=217, y=15, z=-167}
+[17:53:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=15, z=-168} class_2338{x=217, y=15, z=-167}
+[17:55:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=211, y=16, z=-275} class_2338{x=211, y=15, z=-277}
+[17:55:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=211, y=16, z=-274} class_2338{x=212, y=15, z=-276}
+[17:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=210, y=16, z=-274} class_2338{x=209, y=16, z=-274}
+[17:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=210, y=16, z=-274} class_2338{x=209, y=16, z=-274}
+[17:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=210, y=16, z=-274} class_2338{x=209, y=16, z=-274}
+[17:56:48] [Server thread/WARN]: Vicleoon moved wrongly!
+[18:02:38] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@7395b08b, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_4174.method_19230()" because the return value of "net.minecraft.class_1451.redirect$zdh000$fabric-item-api-v1$getStackAwareFoodComponent(net.minecraft.class_1792, net.minecraft.class_1657, net.minecraft.class_1268)" is null
+	at net.minecraft.class_1451.method_5992(class_1451.java:416) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1158) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1087) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244$1.method_33897(class_3244.java:1536) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244$1.method_34219(class_3244.java:1547) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:116) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_34209(class_2824.java:66) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1529) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:24) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:687) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
