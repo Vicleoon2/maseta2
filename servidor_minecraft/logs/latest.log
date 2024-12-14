@@ -1,2 +1,14 @@
 [00:02:05] [Server thread/INFO]: [Not Secure] <Vicleoon> HABKA+
 [00:02:44] [Server thread/INFO]: [Not Secure] <samir50594023> al wuasa
+[00:08:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=144, y=40, z=-154} class_2338{x=143, y=40, z=-154}
+[00:08:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=148, y=36, z=-155} class_2338{x=146, y=37, z=-155}
+[00:08:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=149, y=37, z=-155} class_2338{x=149, y=36, z=-155}
+[00:09:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=168, y=15, z=-155} class_2338{x=167, y=16, z=-154}
+[00:10:43] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[00:10:43] [Server thread/INFO]: Vicleoon left the game
+[00:10:48] [Server thread/INFO]: Vicleoon[/127.39.109.39:47689] logged in with entity id 28446 at (189.5138413128039, 15.0, -153.30000001192093)
+[00:10:48] [Server thread/INFO]: Vicleoon joined the game
+[00:10:57] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[00:10:57] [Server thread/INFO]: Vicleoon left the game
+[00:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:16:02] [Server thread/INFO]: samir50594023 has made the advancement [Hidden in the Depths]

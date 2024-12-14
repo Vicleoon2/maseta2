@@ -2180,6 +2180,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-14 00:10:33 +0000",
       "minecraft:nether_wastes": "2024-12-10 02:25:32 +0000",
       "minecraft:soul_sand_valley": "2024-12-10 02:27:33 +0000",
       "minecraft:basalt_deltas": "2024-12-10 02:51:17 +0000"
@@ -3278,9 +3279,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-14 00:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-14 00:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-14 00:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-14 00:16:02 +0000"
     },
     "done": true
   },
