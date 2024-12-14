@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "cb5e9ba7-6c8c-4eb1-aa42-4813f1f3b1ab",
+    "name": "Ban",
+    "created": "2024-12-14 19:57:56 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "samir50594023"
+  }
+]
