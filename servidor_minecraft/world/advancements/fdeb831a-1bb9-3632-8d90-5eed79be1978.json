@@ -3556,45 +3556,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2024-12-14 20:37:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2024-12-14 20:40:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-12-14 21:21:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-12-14 20:38:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-14 20:19:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-14 20:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-14 20:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-14 20:37:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
-      "has_prismarine_bricks": "2024-12-14 20:40:01 +0000"
+      "has_prismarine": "2024-12-14 20:37:27 +0000"
     },
     "done": true
   },
@@ -3610,21 +3598,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
-      "has_ancient_debris": "2024-12-14 20:19:09 +0000"
+      "has_prismarine": "2024-12-14 20:37:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
-      "has_prismarine_crystals": "2024-12-14 20:38:10 +0000"
+      "has_prismarine": "2024-12-14 20:37:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_prismarine_brick": "2024-12-14 20:40:01 +0000"
+      "has_prismarine_shard": "2024-12-14 20:38:09 +0000"
     },
     "done": true
   },
@@ -3634,21 +3622,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-14 20:58:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-14 20:38:09 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "ancient_debris": "2024-12-14 20:19:09 +0000"
+      "has_prismarine_crystals": "2024-12-14 20:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-14 20:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-14 20:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-14 20:40:01 +0000"
     },
     "done": true
   },
@@ -3658,9 +3658,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_prismarine": "2024-12-14 20:37:27 +0000"
+      "has_netherite_scrap": "2024-12-14 20:58:14 +0000"
     },
     "done": true
   },
@@ -3670,9 +3670,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
-      "has_prismarine": "2024-12-14 20:37:27 +0000"
+      "has_glass": "2024-12-14 21:21:22 +0000"
     },
     "done": true
   },
