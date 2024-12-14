@@ -985,27 +985,28 @@
       "minecraft:blaze": "2024-12-10 03:00:10 +0000",
       "minecraft:pillager": "2024-12-11 22:22:15 +0000",
       "minecraft:skeleton": "2024-12-09 00:31:29 +0000",
+      "minecraft:ravager": "2024-12-11 23:17:14 +0000",
+      "minecraft:ghast": "2024-12-13 18:31:27 +0000",
+      "minecraft:vindicator": "2024-12-11 23:08:14 +0000",
+      "minecraft:magma_cube": "2024-12-11 02:32:02 +0000",
+      "minecraft:spider": "2024-12-09 00:19:38 +0000",
+      "minecraft:creeper": "2024-12-10 20:19:49 +0000",
+      "minecraft:wither": "2024-12-13 23:48:06 +0000",
+      "minecraft:evoker": "2024-12-12 21:29:10 +0000",
       "minecraft:phantom": "2024-12-09 18:00:05 +0000",
       "minecraft:zombified_piglin": "2024-12-13 19:25:29 +0000",
       "minecraft:witch": "2024-12-11 23:28:14 +0000",
       "minecraft:wither_skeleton": "2024-12-10 02:58:01 +0000",
-      "minecraft:ravager": "2024-12-11 23:17:14 +0000",
-      "minecraft:ghast": "2024-12-13 18:31:27 +0000",
       "minecraft:ender_dragon": "2024-12-11 03:09:12 +0000",
       "minecraft:shulker": "2024-12-11 03:40:35 +0000",
       "minecraft:cave_spider": "2024-12-09 00:52:06 +0000",
       "minecraft:piglin": "2024-12-10 02:31:03 +0000",
-      "minecraft:vindicator": "2024-12-11 23:08:14 +0000",
       "minecraft:enderman": "2024-12-11 01:33:13 +0000",
-      "minecraft:magma_cube": "2024-12-11 02:32:02 +0000",
       "minecraft:endermite": "2024-12-11 03:15:39 +0000",
-      "minecraft:spider": "2024-12-09 00:19:38 +0000",
       "minecraft:vex": "2024-12-11 23:33:24 +0000",
       "minecraft:zombie": "2024-12-09 00:20:05 +0000",
-      "minecraft:creeper": "2024-12-10 20:19:49 +0000",
       "minecraft:drowned": "2024-12-10 19:59:13 +0000",
-      "minecraft:zombie_villager": "2024-12-11 02:50:55 +0000",
-      "minecraft:evoker": "2024-12-12 21:29:10 +0000"
+      "minecraft:zombie_villager": "2024-12-11 02:50:55 +0000"
     },
     "done": false
   },
@@ -3268,6 +3269,30 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-13 18:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-14 00:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-14 00:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-14 00:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-13 23:48:08 +0000"
     },
     "done": true
   },
