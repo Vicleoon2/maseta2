@@ -121,3 +121,20 @@
 [18:50:33] [Server thread/INFO]: [Vicleoon: Teleported Vicleoon to samir50594023]
 [18:50:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [18:50:57] [Server thread/INFO]: tpdeop vicleoon<--[HERE]
+[18:51:13] [Server thread/INFO]: Made Vicleoon no longer a server operator
+[18:51:35] [Server thread/INFO]: [Not Secure] <Vicleoon> -848 ~ 1088
+[18:52:59] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[18:52:59] [Server thread/INFO]: Vicleoon left the game
+[18:53:05] [Server thread/INFO]: Vicleoon[/127.39.109.39:49055] logged in with entity id 8517 at (-286.7533339404273, 62.110764288902274, 849.7287372859222)
+[18:53:05] [Server thread/INFO]: Vicleoon joined the game
+[18:54:25] [Server thread/INFO]: [Not Secure] <Vicleoon> -848 ~ 1088
+[18:55:57] [Server thread/WARN]: samir50594023 moved too quickly! -8.901916018929512,-1.252203340253729,4.555800004238677
+[18:56:00] [Server thread/WARN]: samir50594023 moved too quickly! -9.771781136365519,-0.9663680416412319,-3.0006750596066922
+[18:57:19] [Server thread/INFO]: samir50594023 lost connection: Kicked by an operator
+[18:57:19] [Server thread/INFO]: samir50594023 left the game
+[18:57:19] [Server thread/INFO]: Kicked samir50594023: Kicked by an operator
+[18:57:19] [Server thread/WARN]: handleDisconnection() called twice
+[19:01:30] [Server thread/INFO]: samir50594023[/127.243.82.160:37275] logged in with entity id 11413 at (-677.4585953173779, 51.875, 974.9860181432149)
+[19:01:30] [Server thread/INFO]: samir50594023 joined the game
+[19:03:54] [Server thread/INFO]: Vicleoon has made the advancement [Acquire Hardware]
+[19:12:22] [Server thread/INFO]: samir50594023 has made the advancement [Acquire Hardware]
