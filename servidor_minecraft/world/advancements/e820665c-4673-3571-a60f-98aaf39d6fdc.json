@@ -236,6 +236,7 @@
       "bread": "2025-05-15 19:07:14 +0000",
       "suspicious_stew": "2025-05-15 19:08:18 +0000",
       "sweet_berries": "2025-05-15 18:22:07 +0000",
+      "dried_kelp": "2025-05-16 22:08:49 +0000",
       "cooked_beef": "2025-05-15 18:40:52 +0000"
     },
     "done": false
@@ -1696,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-05-16 22:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-16 21:36:47 +0000"
@@ -1735,6 +1742,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-16 21:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-16 22:08:46 +0000"
     },
     "done": true
   },

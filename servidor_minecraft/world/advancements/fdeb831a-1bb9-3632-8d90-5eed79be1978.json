@@ -335,6 +335,7 @@
       "glow_berries": "2025-05-15 18:42:46 +0000",
       "cooked_cod": "2025-05-16 21:52:17 +0000",
       "sweet_berries": "2025-05-15 18:35:01 +0000",
+      "dried_kelp": "2025-05-16 22:03:46 +0000",
       "cooked_beef": "2025-05-15 18:23:01 +0000",
       "beef": "2025-05-16 21:55:31 +0000"
     },
@@ -1355,6 +1356,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-16 20:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-16 22:03:45 +0000"
     },
     "done": true
   },
