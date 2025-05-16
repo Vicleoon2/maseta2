@@ -426,6 +426,7 @@
       "minecraft:skeleton": "2025-05-15 18:39:15 +0000",
       "minecraft:spider": "2025-05-15 18:54:05 +0000",
       "minecraft:zombie": "2025-05-15 18:34:20 +0000",
+      "minecraft:creeper": "2025-05-16 21:16:29 +0000",
       "minecraft:zombie_villager": "2025-05-16 20:56:31 +0000"
     },
     "done": false
@@ -1222,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-16 21:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-16 21:08:25 +0000"
@@ -1231,6 +1238,18 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-16 20:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-16 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-16 21:16:50 +0000"
     },
     "done": true
   },
@@ -1282,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-16 21:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-16 21:00:52 +0000"
@@ -1303,6 +1328,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-16 21:19:22 +0000"
     },
     "done": true
   },
@@ -1357,6 +1388,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-16 21:19:22 +0000"
     },
     "done": true
   },
