@@ -116,3 +116,7 @@
 [20:46:03] [Server thread/INFO]: Vicleoon joined the game
 [20:46:18] [Server thread/INFO]: samir50594023[/127.243.82.160:57585] logged in with entity id 4402 at (-868.5, 63.0, 1021.5)
 [20:46:18] [Server thread/INFO]: samir50594023 joined the game
+[20:54:08] [Server thread/INFO]: Villager class_1646['Villager'/4048, l='ServerLevel[world]', x=-855.20, y=75.50, z=1113.46] died, message: 'Villager was slain by Zombie'
+[20:54:36] [Server thread/INFO]: Villager class_1646['Villager'/3995, l='ServerLevel[world]', x=-847.99, y=78.00, z=1081.86] died, message: 'Villager was slain by Zombie Villager'
+[20:55:52] [Server thread/INFO]: Villager class_1646['Farmer'/3996, l='ServerLevel[world]', x=-932.84, y=77.53, z=1104.97] died, message: 'Farmer was slain by Zombie'
+[20:57:51] [Server thread/INFO]: Villager class_1646['Villager'/4139, l='ServerLevel[world]', x=-860.84, y=63.19, z=1017.56] died, message: 'Villager was slain by Vicleoon'
