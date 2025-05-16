@@ -139,3 +139,5 @@
 [21:35:21] [Server thread/INFO]: Vicleoon has made the advancement [Not Today, Thank You]
 [21:36:00] [Server thread/INFO]: Vicleoon was slain by Zombie
 [21:36:38] [Server thread/INFO]: Vicleoon was slain by Spider
+[21:48:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-881, y=51, z=1007} class_2338{x=-881, y=50, z=1007}
+[21:49:52] [Server thread/INFO]: Seed: [2561848175731568725]
